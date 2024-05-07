@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://zetdou.github.io/goit-group-project",
+  "homepage": "https://KonradKinok.github.io/Flower",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-group-project/"
+    "build": "parcel build src/*.html --public-url /Flower/"
   },
   "repository": {
     "type": "git",
